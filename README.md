@@ -7,6 +7,3 @@ LG Campion
 **Kapag 
 ![image](https://user-images.githubusercontent.com/122416461/212214783-60472420-a7dc-49fb-90aa-a8560d8d151b.png)
 
-
-
-Theme: jekyll-theme-midnight
