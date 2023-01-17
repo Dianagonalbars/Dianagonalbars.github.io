@@ -1,7 +1,10 @@
 ####                                                                      Dianagonalbars.github.io
 ##                                                                         Zeth Erik P. Marpuri
+## Very inspiring song
 
-Very inspiring Songs
+![shotgunner](https://user-images.githubusercontent.com/122416461/212786705-ba84d5f2-f87e-4b73-8021-8da1fe5025b9.png)
+
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OyDyOweu-PA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
